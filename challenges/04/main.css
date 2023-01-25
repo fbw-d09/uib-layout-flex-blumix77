@@ -13,3 +13,9 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+body {
+  display: flex;
+  flex-direction: row;
+  align-items:flex-end;
+}
